@@ -1,0 +1,4 @@
+- [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149/)
+- [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57/)
+- [How to choose the right chart for your data](https://infogram.com/blog/choose-the-right-chart/)
+- [What Germany Currently Is Up To, Debt-Wise](https://contributor.insightmediagroup.io/?p=599747)
